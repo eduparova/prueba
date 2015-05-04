@@ -16,7 +16,7 @@ body {
 			   <br><br><br>	
 			   <center>
 				<br>Desarrollar un formulario que permita el ingreso de datos personales del 
-				<br>alumno (mínimo 10) y lo muestre en forma ordenada. Utilizar caja de texto, 
+				<br>alumno (mínimo 10) y lo mukfkfkfkfkfkfkfkfkfkfkfstre en forma ordenada. Utilizar caja de texto, 
 				<br>lista/menu, boton de opcion, etc.
 				</center>
 				<p>
